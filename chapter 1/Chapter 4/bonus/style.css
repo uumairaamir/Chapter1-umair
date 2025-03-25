@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+body {
+    background-image: url('wrieframe1.jpg');
+    background-size: cover; /* or contain */
+    background-repeat: no-repeat; /* optional */
+}
+
+nav {
+    background-color: #4CAF50; /* Dark green */
+    color: white;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.week {
+    background-color: hsl(226, 39%, 51%); /* Light gray */
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.week h3 {
+    margin: 0;
+}
+
+ul {
+    padding-left: 20px;
+}

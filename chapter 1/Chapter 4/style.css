@@ -1,0 +1,86 @@
+/* styles.css */
+
+/* Body styles */
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif; /* Basic font family */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #6b46c1; /* Purple color */
+    color: white;
+    text-align: center;
+    padding: 20px; /* Padding for header */
+}
+
+/* Header h1 styles */
+header h1 {
+    font-size: 36px; /* Font size for header */
+    margin: 0; /* Remove default margin */
+}
+
+/* Navigation styles */
+nav {
+    margin-top: 10px; /* Space between header and nav */
+}
+
+nav ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+}
+
+nav ul li {
+    display: inline; /* Display list items inline */
+    margin: 0 15px; /* Space between links */
+}
+
+nav a {
+    color: white; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+/* Main section styles */
+main {
+    padding: 20px; /* Padding for main content */
+}
+
+/* Section styles */
+section {
+    margin-bottom: 20px; /* Space below section */
+}
+
+/* Section h2 styles */
+section h2 {
+    font-size: 24px; /* Font size for section heading */
+    margin-bottom: 10px; /* Space below heading */
+}
+
+/* Aside styles */
+aside {
+    background-color: #2b6cb0; /* Blue color */
+    color: white;
+    padding: 15px; /* Padding for aside */
+}
+
+/* Aside h2 styles */
+aside h2 {
+    font-size: 20px; /* Font size for aside heading */
+}
+
+/* Image styles */
+img {
+    max-width: 100%; /* Responsive images */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Footer styles */
+footer {
+    background-color: #2b6cb0; /* Blue color */
+    color: white;
+    text-align: center;
+    padding: 10px; /* Padding for footer */
+}
